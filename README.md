@@ -10,6 +10,9 @@ gcc lib.c mongoose.c -o exec -lm
 wait for network to finish
 open localhost:8000
 
+![image](https://github.com/user-attachments/assets/0e575f56-90b4-4f79-81fb-fe92c2483e47)
+
+
 
 ```mermaid
 flowchart TD
